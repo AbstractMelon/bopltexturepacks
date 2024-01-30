@@ -1,6 +1,5 @@
 # Bopl Texturepack loader
 
-![App Screenshot](path/to/screenshot.png)
 
 ## Overview
 
