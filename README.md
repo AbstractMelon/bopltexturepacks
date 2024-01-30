@@ -36,6 +36,8 @@ Coming soon...
 
 ## Contributing
 
+DM me on discord for now [here](https://discord.gg/y3swQwPrrX)
+
 ## License
 
 ## Acknowledgments
